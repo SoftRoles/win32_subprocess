@@ -1,0 +1,8 @@
+﻿  win32-subprocess.cpp
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(6,1): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(16,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(16,12): message : consider using '%ls' in the format string
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(16,12): message : consider using '%lls' in the format string
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(16,12): message : consider using '%Ls' in the format string
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\win32-subprocess.cpp(16,12): message : consider using '%ws' in the format string
+  win32-subprocess.vcxproj -> C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\Debug\win32-subprocess.exe

@@ -1,0 +1,2 @@
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\Debug\win32-subprocess.exe
+C:\Users\hsyn\Desktop\SoftRoles\win32-subprocess\Debug\win32-subprocess.pdb
